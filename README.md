@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evelyn Kretschmer</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Financial area, Fluig and Goddata projects, and also studying Python and SQL**
 
